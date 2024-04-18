@@ -34,13 +34,11 @@ H8888888Ho                 `888888888T       .
 
 Your 🌍 Earthly installation is working correctly ✨
 
-This example build produces two outputs:
+This example build produces one output:
 
 * hello.txt, a regular text file
-* hello:latest, a container image
 
-You can verify these outputs by running:
+You can verify the output by running:
 
   cat hello.txt
-  docker run --rm hello:latest
 
